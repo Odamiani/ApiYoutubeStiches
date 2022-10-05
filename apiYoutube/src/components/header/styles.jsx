@@ -16,7 +16,6 @@ export const InputSearch = styled('input', {
     outline: 'none',
     padding: '5px',
     fontSize: '1.1em'
-
 })
 
 export const Button = styled('button', {
